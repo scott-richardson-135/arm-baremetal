@@ -3,3 +3,7 @@
 *.bin
 *.o
 *.map
+
+
+u-boot-2018.09/
+tmp/
