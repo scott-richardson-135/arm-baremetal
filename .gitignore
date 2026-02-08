@@ -7,3 +7,6 @@
 
 u-boot-2018.09/
 tmp/
+
+bare-arm.uimg
+sdcard.img
